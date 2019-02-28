@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: awesome-application
+server:
+  port: 8080
